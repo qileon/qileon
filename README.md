@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Sirac Suzer</h1>
-<h3 align="center">I'm a first-year software engineering student, currently learning Python at school and interested in C++, Unreal Engine, and AI. I also want to study in America while learning video editing with DaVinci Resolve.</h3>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=qileon" alt="qileon" />
-  </a> 
-</p>
+<h3 align="center">I'm a first-year software engineering student, currently learning Python at school and interested in C++, Unreal Engine, and AI. I also want to study in America while learning Photoshop and video editing with DaVinci Resolve.</h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/siracsuzer" target="blank">
