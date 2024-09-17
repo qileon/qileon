@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sirac Suzer</h1>
-<h3 align="center">I was a software engineering student, but I am going to drop out and now I'm preparing for medicine. I won't completely give up coding, but it will no longer be my main goal. However, I will continue to learn Photoshop and video editing with DaVinci Resolve.</h3>
+<h3 align="center">Software engineering student, learning Photoshop and video editing with DaVinci Resolve.</h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/siracsuzer" target="blank">
