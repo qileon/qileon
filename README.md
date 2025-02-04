@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sirac Suzer</h1>
-<h3 align="center">Software engineering student, learning Photoshop and video editing with DaVinci Resolve.</h3>
+<h3 align="center">I don’t wait for opportunities—I create them. Betting on myself, making every second count. Software Engineering today, Computer Science abroad tomorrow. No wasted time. No second thoughts.</h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/siracsuzer" target="blank">
@@ -21,6 +21,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a> 
@@ -34,8 +37,8 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/siracsuz">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/siracsuz" />
+  <a href="https://www.buymeacoffee.com/siracsuz">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </p>
 
