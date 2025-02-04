@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sirac Suzer</h1>
-<h3 align="center">I don’t wait for opportunities—I create them. Betting on myself, making every second count. Software Engineering today, Computer Science abroad tomorrow. No wasted time. No second thoughts.</h3>
+<h3 align="center">I don’t wait for opportunities, I create them. Betting on myself, making every second count. Software Engineering today, Computer Science abroad tomorrow. No wasted time. No second thoughts.</h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/siracsuzer" target="blank">
