@@ -48,7 +48,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qileon&show_icons=true&locale=en"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qileon"/>
-</p>
