@@ -22,13 +22,13 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  I'm a Software Engineering student with a strong interest in
+  I'm a Software Engineering student interested in
   <strong>ERP systems, enterprise software, and applied AI.</strong>
   <br/><br/>
-  I recently worked with <strong>Microsoft Dynamics 365 Finance & Operations</strong>,
+  During my internship, I worked with <strong>Microsoft Dynamics 365 Finance & Operations</strong>,
   developing an order management module with X++ and exploring enterprise application development.
   <br/><br/>
-  I also built a local AI project involving <strong>LLMs, RAG, text-to-pandas, MCP, and Ollama</strong>.
+  I also worked on a local AI project involving <strong>LLMs, RAG, text-to-pandas, MCP, and Ollama</strong>.
   <br/><br/>
   Currently exploring how <strong>AI can be applied to enterprise software and ERP systems.</strong>
 </p>
@@ -76,5 +76,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qileon&show_icons=true&locale=en"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=qileon&show_icons=true&include_all_commits=true&rank_icon=github" />
+  </a>
 </p>
